@@ -37,6 +37,7 @@ brew install pipenv
 初始用python具体版本环境 pipenv --python 3.7.2
 在文件夹下有个 .venv的目录 ，这个就是该项目的虚拟环境
 ### 安装依赖
+$ pipenv install 安装Pipfile.lock下的全部
 $ pipenv install flask
 $ pipenv install pytest --dev 
 ### 查看依赖
@@ -50,6 +51,10 @@ python 3.7.2 (使用pyenv切换到此环境)
 pip 18.1
 pyenv 1.2.9 (pipenv --python 3.7.2 这个有点慢，时间在5-10分钟 会生成一个Pipfile)
 pipenv version 2018.11.26
+
+# 问题
+pipenv 似乎有点问题
+直接 pip install requests 了（无vpn下，5分钟左右，之前报错，还pip install --upgrade pip了）
 
 
 
