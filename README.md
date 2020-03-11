@@ -6,7 +6,6 @@ MAC电脑
 现有版本：Python 2.7.16
 
 # python 准备
-
 ## pyenv
 ### 安装
 brew install pyenv 安装时间 5分钟+
@@ -35,8 +34,6 @@ brew install pyenv-virtualenv
 ### 安装
 brew install pipenv
 ### 初始化
-初始用python3环境 pipenv --three
-初始用python2环境 pipenv --two
 初始用python具体版本环境 pipenv --python 3.7.2
 在文件夹下有个 .venv的目录 ，这个就是该项目的虚拟环境
 ### 安装依赖
@@ -46,11 +43,12 @@ $ pipenv install pytest --dev
 pipenv graph
 ### 线上版本，下载很慢的
 https://www.python.org/downloads/source/
+我已经下载了一个 Python-3.7.2.tar.xz 存在项目中，以备不时之需
 
 # 最终开发版本
 python 3.7.2 (使用pyenv切换到此环境)
 pip 18.1
-pyenv 1.2.9
+pyenv 1.2.9 (pipenv --python 3.7.2 这个有点慢，时间在5-10分钟 会生成一个Pipfile)
 pipenv version 2018.11.26
 
 
