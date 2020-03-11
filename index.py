@@ -1,6 +1,9 @@
 print('============= 小工具 =============');
 
 import requests
+
+import json
+
 import src.libs.bee as bee
 
 
@@ -35,8 +38,9 @@ def getScreenerData(url,param):
     
     return myGet().text;
 
-data = getScreenerData(url,param)
-print(data)
+# 转化为 dict
+data = json.loads(getScreenerData(url,param))
+print(json.dumps(data['data']['list'][0]))
 
 
 
