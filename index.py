@@ -9,6 +9,8 @@ import src.libs.bee as bee
 
 # 导入配置
 screenerConfig = bee.loadJson('config/screener.json')
+industryConfig = bee.loadJson('config/industryConfig.json')
+
 
 timeout = 5000
 url = "https://xueqiu.com/service/screener/screen"
@@ -40,7 +42,31 @@ def getScreenerData(url,param):
 
 # 转化为 dict
 data = json.loads(getScreenerData(url,param))
-print(json.dumps(data['data']['list'][0]))
+
+print('符合数据条目')
+print(data['data']['count'])
+
+list = data['data']['list']
+
+for one in list:
+    if one['symbol'] in industryConfig:
+        #print('键存在')
+        one['industry'] =industryConfig[one['symbol']]['industry']
+        one['industryId'] =industryConfig[one['symbol']]['id']
+    else:
+        #print('键不存在')
+        one['industry'] = '未分类'
+        one['industryId'] = 999
+
+#print(json.dumps(list))
+
+print('实际获取数据条目')
+print(len(list))
+
+sorted_x = sorted(list, key=lambda x : x['industryId'])  
+print(json.dumps(sorted_x))
+
+# print(json.dumps(data['data']['list'][0]))
 
 
 
