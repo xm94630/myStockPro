@@ -63,10 +63,20 @@ for one in list:
 print('实际获取数据条目')
 print(len(list))
 
-sorted_x = sorted(list, key=lambda x : x['industryId'])  
-print(json.dumps(sorted_x))
+newList = sorted(list, key=lambda x : x['industryId'])  
+#print(json.dumps(newList))
 
 # print(json.dumps(data['data']['list'][0]))
+
+
+newDict = {};
+for one in newList:
+    if(one['industryId'] in newDict):
+        newDict[one['industryId']].append(one)
+    else:
+        newDict[one['industryId']]=[];
+
+print(json.dumps(newDict[999]))
 
 
 
