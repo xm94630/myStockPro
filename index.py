@@ -8,8 +8,9 @@ import src.libs.bee as bee
 
 
 # 导入配置
-screenerConfig = bee.loadJson('config/screener.json')
-industryConfig = bee.loadJson('config/industryConfig.json')
+screenerConfig    = bee.loadJson('config/screener.json')["screener"]
+resoultKeysConfig = bee.loadJson('config/screener.json')["resoultKeys"]
+industryConfig    = bee.loadJson('config/industryConfig.json')
 
 
 timeout = 5000
@@ -43,12 +44,16 @@ def getScreenerData(url,param):
 # 转化为 dict
 data = json.loads(getScreenerData(url,param))
 
-print('符合数据条目')
-print(data['data']['count'])
+
 
 list = data['data']['list']
 
 for one in list:
+    # for key in one:
+    #     if key not in resoultKeysConfig['keys']:
+    #         del one[key]
+
+    # 追加数据
     if one['symbol'] in industryConfig:
         #print('键存在')
         one['industry'] =industryConfig[one['symbol']]['industry']
@@ -59,7 +64,8 @@ for one in list:
         one['industryId'] = 999
 
 #print(json.dumps(list))
-
+print('符合数据条目')
+print(data['data']['count'])
 print('实际获取数据条目')
 print(len(list))
 
@@ -76,7 +82,8 @@ for one in newList:
     else:
         newDict[one['industryId']]=[];
 
-print(json.dumps(newDict[999]))
+#print(json.dumps(newDict[999]))
+print(json.dumps(newDict))
 
 
 
