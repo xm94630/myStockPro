@@ -45,6 +45,9 @@ pipenv graph
 ### 线上版本，下载很慢的
 https://www.python.org/downloads/source/
 我已经下载了一个 Python-3.7.2.tar.xz 存在项目中，以备不时之需
+操作方法：
+/Users/mingming/.pyenv/cache （mac中的路径，cache是自己创建的）
+把 Python-3.7.2.tar.xz 放进去之后，再 pipenv --python 3.7.2 就快很多了
 
 # 最终开发版本
 python 3.7.2 (使用pyenv切换到此环境)
@@ -55,6 +58,10 @@ pipenv version 2018.11.26
 # 问题
 pipenv 似乎有点问题
 直接 pip install requests 了（无vpn下，5分钟左右，之前报错，还pip install --upgrade pip了）
+
+
+
+
 
 
 
