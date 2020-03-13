@@ -46,12 +46,12 @@ data = json.loads(getScreenerData(url,param))
 
 
 
-list = data['data']['list']
+myList = data['data']['list']
 
-for one in list:
-    # for key in one:
-    #     if key not in resoultKeysConfig['keys']:
-    #         del one[key]
+for one in myList:
+    for key in list(one):
+        if key not in resoultKeysConfig['keys']:
+            del one[key]
 
     # 追加数据
     if one['symbol'] in industryConfig:
@@ -63,13 +63,13 @@ for one in list:
         one['industry'] = '未分类'
         one['industryId'] = 999
 
-#print(json.dumps(list))
+#print(json.dumps(myList))
 print('符合数据条目')
 print(data['data']['count'])
 print('实际获取数据条目')
-print(len(list))
+print(len(myList))
 
-newList = sorted(list, key=lambda x : x['industryId'])  
+newList = sorted(myList, key=lambda x : x['industryId'])  
 #print(json.dumps(newList))
 
 # print(json.dumps(data['data']['list'][0]))
