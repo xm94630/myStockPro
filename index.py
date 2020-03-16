@@ -76,7 +76,8 @@ for one in newList:
     else:
         newDict[one['industryId']]=[];
 
-print(json.dumps(newDict[999]))
+#print(json.dumps(newDict[999]))
+print(json.dumps(newDict))
 
 
 
