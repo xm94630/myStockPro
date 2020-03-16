@@ -8,8 +8,9 @@ import src.libs.bee as bee
 
 
 # 导入配置
-screenerConfig = bee.loadJson('config/screener.json')
-industryConfig = bee.loadJson('config/industryConfig.json')
+screenerConfig    = bee.loadJson('config/screener.json')["screener"]
+resoultKeysConfig = bee.loadJson('config/screener.json')["resoultKeys"]
+industryConfig    = bee.loadJson('config/industryConfig.json')
 
 
 timeout = 5000
@@ -43,12 +44,16 @@ def getScreenerData(url,param):
 # 转化为 dict
 data = json.loads(getScreenerData(url,param))
 
-print('符合数据条目')
-print(data['data']['count'])
 
-list = data['data']['list']
 
-for one in list:
+myList = data['data']['list']
+
+for one in myList:
+    for key in list(one):
+        if key not in resoultKeysConfig['keys']:
+            del one[key]
+
+    # 追加数据
     if one['symbol'] in industryConfig:
         #print('键存在')
         one['industry'] =industryConfig[one['symbol']]['industry']
@@ -58,12 +63,13 @@ for one in list:
         one['industry'] = '未分类'
         one['industryId'] = 999
 
-#print(json.dumps(list))
-
+#print(json.dumps(myList))
+print('符合数据条目')
+print(data['data']['count'])
 print('实际获取数据条目')
-print(len(list))
+print(len(myList))
 
-newList = sorted(list, key=lambda x : x['industryId'])  
+newList = sorted(myList, key=lambda x : x['industryId'])  
 #print(json.dumps(newList))
 
 # print(json.dumps(data['data']['list'][0]))
