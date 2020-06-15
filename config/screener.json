@@ -7,10 +7,17 @@
             "current",
             "pb",
             "name",
-            "pelyr"
+            "pelyr",
+            "roediluted.20181231"
         ]
     },
     "screener":{
+        "size":{
+            "key":"size",
+            "value":500,
+            "active":true,
+            "remark":"返回数据条数"
+        },
         "pb":{
             "key":"pelyr",
             "value":"0_2",
@@ -51,12 +58,6 @@
             "value":"asc",
             "active":true,
             "remark":"排序规则。asc为升序，desc为降序"
-        },
-        "size":{
-            "key":"size",
-            "value":5,
-            "active":true,
-            "remark":"返回数据条数"
         },
         "category":{
             "key":"category",
