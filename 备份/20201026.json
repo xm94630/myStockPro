@@ -1,0 +1,2250 @@
+{
+    "1": [
+        {
+            "symbol": "SH600657", 
+            "pettm": 4.463, 
+            "current": 4.33, 
+            "pb": 0.549, 
+            "name": "信达地产", 
+            "pelyr": 5.333, 
+            "industry": "房地产", 
+            "industryId": 1
+        }, 
+        {
+            "symbol": "SZ000402", 
+            "pettm": 7.697, 
+            "current": 6.8, 
+            "pb": 0.595, 
+            "name": "金融街", 
+            "pelyr": 5.905, 
+            "industry": "房地产", 
+            "industryId": 1
+        }, 
+        {
+            "symbol": "SH600376", 
+            "pettm": 8.744, 
+            "current": 6.69, 
+            "pb": 0.695, 
+            "name": "首开股份", 
+            "pelyr": 6.257, 
+            "industry": "房地产", 
+            "industryId": 1
+        }, 
+        {
+            "symbol": "SH600067", 
+            "pettm": 10.188, 
+            "current": 3.81, 
+            "pb": 0.698, 
+            "name": "冠城大通", 
+            "pelyr": 13.573, 
+            "industry": "房地产", 
+            "industryId": 1
+        }, 
+        {
+            "symbol": "SZ002146", 
+            "pettm": 3.72, 
+            "current": 7.39, 
+            "pb": 0.749, 
+            "name": "荣盛发展", 
+            "pelyr": 3.523, 
+            "industry": "房地产", 
+            "industryId": 1
+        }, 
+        {
+            "symbol": "SH600153", 
+            "pettm": 4.319, 
+            "current": 8.49, 
+            "pb": 0.753, 
+            "name": "建发股份", 
+            "pelyr": 5.148, 
+            "industry": "房地产", 
+            "industryId": 1
+        }, 
+        {
+            "symbol": "SH600565", 
+            "pettm": 5.968, 
+            "current": 2.89, 
+            "pb": 0.761, 
+            "name": "迪马股份", 
+            "pelyr": 5.176, 
+            "industry": "房地产", 
+            "industryId": 1
+        }, 
+        {
+            "symbol": "SH600665", 
+            "pettm": 9.754, 
+            "current": 3.55, 
+            "pb": 0.812, 
+            "name": "天地源", 
+            "pelyr": 7.234, 
+            "industry": "房地产", 
+            "industryId": 1
+        }, 
+        {
+            "symbol": "SZ000069", 
+            "pettm": 4.71, 
+            "current": 6.7, 
+            "pb": 0.82, 
+            "name": "华侨城A", 
+            "pelyr": 4.453, 
+            "industry": "房地产", 
+            "industryId": 1
+        }, 
+        {
+            "symbol": "SZ000537", 
+            "pettm": 4.071, 
+            "current": 6.49, 
+            "pb": 0.832, 
+            "name": "广宇发展", 
+            "pelyr": 3.847, 
+            "industry": "房地产", 
+            "industryId": 1
+        }, 
+        {
+            "symbol": "SH600622", 
+            "pettm": 16.853, 
+            "current": 3.59, 
+            "pb": 0.843, 
+            "name": "光大嘉宝", 
+            "pelyr": 11.93, 
+            "industry": "房地产", 
+            "industryId": 1
+        }, 
+        {
+            "symbol": "SH600823", 
+            "pettm": 12.174, 
+            "current": 6.11, 
+            "pb": 0.864, 
+            "name": "世茂股份", 
+            "pelyr": 9.434, 
+            "industry": "房地产", 
+            "industryId": 1
+        }, 
+        {
+            "symbol": "SH600325", 
+            "pettm": 4.918, 
+            "current": 6.66, 
+            "pb": 0.949, 
+            "name": "华发股份", 
+            "pelyr": 5.064, 
+            "industry": "房地产", 
+            "industryId": 1
+        }, 
+        {
+            "symbol": "SH600077", 
+            "pettm": 5.814, 
+            "current": 3.43, 
+            "pb": 0.961, 
+            "name": "宋都股份", 
+            "pelyr": 7.813, 
+            "industry": "房地产", 
+            "industryId": 1
+        }, 
+        {
+            "symbol": "SH600466", 
+            "pettm": 4.33, 
+            "current": 5.07, 
+            "pb": 0.979, 
+            "name": "蓝光发展", 
+            "pelyr": 4.448, 
+            "industry": "房地产", 
+            "industryId": 1
+        }, 
+        {
+            "symbol": "SH600606", 
+            "pettm": 5.485, 
+            "current": 6.21, 
+            "pb": 1, 
+            "name": "绿地控股", 
+            "pelyr": 5.125, 
+            "industry": "房地产", 
+            "industryId": 1
+        }, 
+        {
+            "symbol": "SZ000031", 
+            "pettm": 18.901, 
+            "current": 4.74, 
+            "pb": 1.072, 
+            "name": "大悦城", 
+            "pelyr": 8.542, 
+            "industry": "房地产", 
+            "industryId": 1
+        }, 
+        {
+            "symbol": "SH600173", 
+            "pettm": 7.863, 
+            "current": 4.67, 
+            "pb": 1.173, 
+            "name": "卧龙地产", 
+            "pelyr": 6.414, 
+            "industry": "房地产", 
+            "industryId": 1
+        }, 
+        {
+            "symbol": "SZ000006", 
+            "pettm": 9.754, 
+            "current": 5.89, 
+            "pb": 1.183, 
+            "name": "深振业A", 
+            "pelyr": 9.925, 
+            "industry": "房地产", 
+            "industryId": 1
+        }, 
+        {
+            "symbol": "SZ000718", 
+            "pettm": 7.568, 
+            "current": 3.14, 
+            "pb": 1.185, 
+            "name": "苏宁环球", 
+            "pelyr": 7.741, 
+            "industry": "房地产", 
+            "industryId": 1
+        }, 
+        {
+            "symbol": "SH600340", 
+            "pettm": 4.731, 
+            "current": 14.74, 
+            "pb": 1.243, 
+            "name": "华夏幸福", 
+            "pelyr": 3.948, 
+            "industry": "房地产", 
+            "industryId": 1
+        }, 
+        {
+            "symbol": "SZ000517", 
+            "pettm": 4.453, 
+            "current": 2.81, 
+            "pb": 1.243, 
+            "name": "荣安地产", 
+            "pelyr": 4.737, 
+            "industry": "房地产", 
+            "industryId": 1
+        }, 
+        {
+            "symbol": "SH600383", 
+            "pettm": 6.758, 
+            "current": 14.11, 
+            "pb": 1.251, 
+            "name": "金地集团", 
+            "pelyr": 6.323, 
+            "industry": "房地产", 
+            "industryId": 1
+        }, 
+        {
+            "symbol": "SZ000671", 
+            "pettm": 6.864, 
+            "current": 7.12, 
+            "pb": 1.276, 
+            "name": "阳光城", 
+            "pelyr": 7.297, 
+            "industry": "房地产", 
+            "industryId": 1
+        }, 
+        {
+            "symbol": "SZ000036", 
+            "pettm": 7.89, 
+            "current": 4.26, 
+            "pb": 1.319, 
+            "name": "华联控股", 
+            "pelyr": 7.732, 
+            "industry": "房地产", 
+            "industryId": 1
+        }, 
+        {
+            "symbol": "SH600048", 
+            "pettm": 6.994, 
+            "current": 16.44, 
+            "pb": 1.377, 
+            "name": "保利地产", 
+            "pelyr": 7.037, 
+            "industry": "房地产", 
+            "industryId": 1
+        }, 
+        {
+            "symbol": "SH600639", 
+            "pettm": 12.47, 
+            "current": 13.18, 
+            "pb": 1.483, 
+            "name": "浦东金桥", 
+            "pelyr": 13.635, 
+            "industry": "房地产", 
+            "industryId": 1
+        }, 
+        {
+            "symbol": "SZ002016", 
+            "pettm": 7.187, 
+            "current": 6.62, 
+            "pb": 1.501, 
+            "name": "世荣兆业", 
+            "pelyr": 6.071, 
+            "industry": "房地产", 
+            "industryId": 1
+        }, 
+        {
+            "symbol": "SZ000961", 
+            "pettm": 7.157, 
+            "current": 9.28, 
+            "pb": 1.536, 
+            "name": "中南建设", 
+            "pelyr": 8.425, 
+            "industry": "房地产", 
+            "industryId": 1
+        }, 
+        {
+            "symbol": "SZ000090", 
+            "pettm": 5.859, 
+            "current": 7.02, 
+            "pb": 1.56, 
+            "name": "天健集团", 
+            "pelyr": 10.611, 
+            "industry": "房地产", 
+            "industryId": 1
+        }, 
+        {
+            "symbol": "SZ000656", 
+            "pettm": 6.861, 
+            "current": 8.61, 
+            "pb": 1.603, 
+            "name": "金科股份", 
+            "pelyr": 8.1, 
+            "industry": "房地产", 
+            "industryId": 1
+        }, 
+        {
+            "symbol": "SZ000002", 
+            "pettm": 8.227, 
+            "current": 28, 
+            "pb": 1.663, 
+            "name": "万科A", 
+            "pelyr": 8.368, 
+            "industry": "房地产", 
+            "industryId": 1
+        }, 
+        {
+            "symbol": "SH600007", 
+            "pettm": 14.181, 
+            "current": 12.55, 
+            "pb": 1.664, 
+            "name": "中国国贸", 
+            "pelyr": 13, 
+            "industry": "房地产", 
+            "industryId": 1
+        }, 
+        {
+            "symbol": "SZ001979", 
+            "pettm": 9.158, 
+            "current": 15.18, 
+            "pb": 1.689, 
+            "name": "招商蛇口", 
+            "pelyr": 7.501, 
+            "industry": "房地产", 
+            "industryId": 1
+        }, 
+        {
+            "symbol": "SZ000736", 
+            "pettm": 8.9, 
+            "current": 7.35, 
+            "pb": 1.819, 
+            "name": "中交地产", 
+            "pelyr": 9.422, 
+            "industry": "房地产", 
+            "industryId": 1
+        }, 
+        {
+            "symbol": "SH601155", 
+            "pettm": 5.677, 
+            "current": 33.37, 
+            "pb": 1.999, 
+            "name": "新城控股", 
+            "pelyr": 5.951, 
+            "industry": "房地产", 
+            "industryId": 1
+        }
+    ], 
+    "2": [
+        {
+            "symbol": "SH603766", 
+            "pettm": 14.586, 
+            "current": 3.99, 
+            "pb": 1.13, 
+            "name": "隆鑫通用", 
+            "pelyr": 13.155, 
+            "industry": "汽车/其他设备", 
+            "industryId": 2
+        }, 
+        {
+            "symbol": "SH600742", 
+            "pettm": 14.737, 
+            "current": 11.18, 
+            "pb": 1.266, 
+            "name": "一汽富维", 
+            "pelyr": 13.962, 
+            "industry": "汽车/零部件", 
+            "industryId": 2
+        }, 
+        {
+            "symbol": "SZ000581", 
+            "pettm": 9.356, 
+            "current": 25.7, 
+            "pb": 1.463, 
+            "name": "威孚高科", 
+            "pelyr": 11.433, 
+            "industry": "汽车/零部件", 
+            "industryId": 2
+        }, 
+        {
+            "symbol": "SH603035", 
+            "pettm": 18.453, 
+            "current": 15.4, 
+            "pb": 1.545, 
+            "name": "常熟汽饰", 
+            "pelyr": 19.532, 
+            "industry": "汽车/汽车零部件", 
+            "industryId": 2
+        }, 
+        {
+            "symbol": "SZ002406", 
+            "pettm": 15.043, 
+            "current": 7.57, 
+            "pb": 1.567, 
+            "name": "远东传动", 
+            "pelyr": 16.423, 
+            "industry": "汽车/零部件", 
+            "industryId": 2
+        }, 
+        {
+            "symbol": "SH688009", 
+            "pettm": 19.6, 
+            "current": 6.15, 
+            "pb": 1.723, 
+            "name": "中国通号", 
+            "pelyr": 17.067, 
+            "industry": "非汽车（高铁）/交运服务", 
+            "industryId": 2
+        }, 
+        {
+            "symbol": "SH600741", 
+            "pettm": 19.565, 
+            "current": 27.34, 
+            "pb": 1.792, 
+            "name": "华域汽车", 
+            "pelyr": 13.336, 
+            "industry": "汽车/零部件", 
+            "industryId": 2
+        }, 
+        {
+            "symbol": "SZ000030", 
+            "pettm": 14.236, 
+            "current": 7.1, 
+            "pb": 1.888, 
+            "name": "富奥股份", 
+            "pelyr": 14.428, 
+            "industry": "汽车/零部件", 
+            "industryId": 2
+        }
+    ], 
+    "3": [
+        {
+            "symbol": "SH601328", 
+            "pettm": 4.84, 
+            "current": 4.63, 
+            "pb": 0.489, 
+            "name": "交通银行", 
+            "pelyr": 4.449, 
+            "industry": "银行", 
+            "industryId": 3
+        }, 
+        {
+            "symbol": "SH600016", 
+            "pettm": 4.642, 
+            "current": 5.37, 
+            "pb": 0.514, 
+            "name": "民生银行", 
+            "pelyr": 4.369, 
+            "industry": "银行", 
+            "industryId": 3
+        }, 
+        {
+            "symbol": "SH601169", 
+            "pettm": 5.01, 
+            "current": 4.76, 
+            "pb": 0.52, 
+            "name": "北京银行", 
+            "pelyr": 4.694, 
+            "industry": "银行", 
+            "industryId": 3
+        }, 
+        {
+            "symbol": "SH600000", 
+            "pettm": 5.053, 
+            "current": 9.6, 
+            "pb": 0.558, 
+            "name": "浦发银行", 
+            "pelyr": 4.783, 
+            "industry": "银行", 
+            "industryId": 3
+        }, 
+        {
+            "symbol": "SH601988", 
+            "pettm": 5.473, 
+            "current": 3.24, 
+            "pb": 0.562, 
+            "name": "中国银行", 
+            "pelyr": 5.09, 
+            "industry": "银行", 
+            "industryId": 3
+        }, 
+        {
+            "symbol": "SH601998", 
+            "pettm": 5.634, 
+            "current": 5.21, 
+            "pb": 0.563, 
+            "name": "中信银行", 
+            "pelyr": 5.31, 
+            "industry": "银行", 
+            "industryId": 3
+        }, 
+        {
+            "symbol": "SH600919", 
+            "pettm": 4.837, 
+            "current": 6.24, 
+            "pb": 0.611, 
+            "name": "江苏银行", 
+            "pelyr": 4.928, 
+            "industry": "银行", 
+            "industryId": 3
+        }, 
+        {
+            "symbol": "SH601077", 
+            "pettm": 6.154, 
+            "current": 4.98, 
+            "pb": 0.626, 
+            "name": "渝农商行", 
+            "pelyr": 5.795, 
+            "industry": "银行", 
+            "industryId": 3
+        }, 
+        {
+            "symbol": "SH601288", 
+            "pettm": 5.667, 
+            "current": 3.23, 
+            "pb": 0.628, 
+            "name": "农业银行", 
+            "pelyr": 5.33, 
+            "industry": "银行", 
+            "industryId": 3
+        }, 
+        {
+            "symbol": "SH601818", 
+            "pettm": 5.982, 
+            "current": 4.02, 
+            "pb": 0.648, 
+            "name": "光大银行", 
+            "pelyr": 5.649, 
+            "industry": "银行", 
+            "industryId": 3
+        }, 
+        {
+            "symbol": "SH601229", 
+            "pettm": 6.082, 
+            "current": 8.13, 
+            "pb": 0.692, 
+            "name": "上海银行", 
+            "pelyr": 5.69, 
+            "industry": "银行", 
+            "industryId": 3
+        }, 
+        {
+            "symbol": "SH601398", 
+            "pettm": 6.105, 
+            "current": 5.02, 
+            "pb": 0.709, 
+            "name": "工商银行", 
+            "pelyr": 5.73, 
+            "industry": "银行", 
+            "industryId": 3
+        }, 
+        {
+            "symbol": "SH601997", 
+            "pettm": 4.323, 
+            "current": 8.03, 
+            "pb": 0.727, 
+            "name": "贵阳银行", 
+            "pelyr": 4.455, 
+            "industry": "银行", 
+            "industryId": 3
+        }, 
+        {
+            "symbol": "SH601166", 
+            "pettm": 5.902, 
+            "current": 17.78, 
+            "pb": 0.742, 
+            "name": "兴业银行", 
+            "pelyr": 5.608, 
+            "industry": "银行", 
+            "industryId": 3
+        }, 
+        {
+            "symbol": "SH601939", 
+            "pettm": 6.436, 
+            "current": 6.44, 
+            "pb": 0.745, 
+            "name": "建设银行", 
+            "pelyr": 6.036, 
+            "industry": "银行", 
+            "industryId": 3
+        }, 
+        {
+            "symbol": "SH601916", 
+            "pettm": 7.234, 
+            "current": 4.14, 
+            "pb": 0.786, 
+            "name": "浙商银行", 
+            "pelyr": 6.813, 
+            "industry": "银行", 
+            "industryId": 3
+        }, 
+        {
+            "symbol": "SH601658", 
+            "pettm": 7.054, 
+            "current": 4.64, 
+            "pb": 0.786, 
+            "name": "邮储银行", 
+            "pelyr": 6.623, 
+            "industry": "银行", 
+            "industryId": 3
+        }, 
+        {
+            "symbol": "SH601009", 
+            "pettm": 6.358, 
+            "current": 8.13, 
+            "pb": 0.798, 
+            "name": "南京银行", 
+            "pelyr": 6.533, 
+            "industry": "银行", 
+            "industryId": 3
+        }, 
+        {
+            "symbol": "SH601577", 
+            "pettm": 6.051, 
+            "current": 9.34, 
+            "pb": 0.879, 
+            "name": "长沙银行", 
+            "pelyr": 6.291, 
+            "industry": "银行", 
+            "industryId": 3
+        }, 
+        {
+            "symbol": "SH600908", 
+            "pettm": 8.61, 
+            "current": 5.97, 
+            "pb": 0.979, 
+            "name": "无锡银行", 
+            "pelyr": 8.83, 
+            "industry": "银行", 
+            "industryId": 3
+        }, 
+        {
+            "symbol": "SH600928", 
+            "pettm": 8.856, 
+            "current": 5.36, 
+            "pb": 0.991, 
+            "name": "西安银行", 
+            "pelyr": 8.906, 
+            "industry": "银行", 
+            "industryId": 3
+        }, 
+        {
+            "symbol": "SH601838", 
+            "pettm": 6.92, 
+            "current": 11.11, 
+            "pb": 1.09, 
+            "name": "成都银行", 
+            "pelyr": 7.23, 
+            "industry": "银行", 
+            "industryId": 3
+        }, 
+        {
+            "symbol": "SH601860", 
+            "pettm": 10.514, 
+            "current": 4.11, 
+            "pb": 1.09, 
+            "name": "紫金银行", 
+            "pelyr": 10.618, 
+            "industry": "银行", 
+            "industryId": 3
+        }, 
+        {
+            "symbol": "SZ002958", 
+            "pettm": 9.775, 
+            "current": 5.09, 
+            "pb": 1.129, 
+            "name": "青农商行", 
+            "pelyr": 10.011, 
+            "industry": "银行", 
+            "industryId": 3
+        }, 
+        {
+            "symbol": "SZ000001", 
+            "pettm": 12.735, 
+            "current": 17.7, 
+            "pb": 1.19, 
+            "name": "平安银行", 
+            "pelyr": 12.182, 
+            "industry": "银行", 
+            "industryId": 3
+        }, 
+        {
+            "symbol": "SH601128", 
+            "pettm": 12.476, 
+            "current": 8.18, 
+            "pb": 1.309, 
+            "name": "常熟银行", 
+            "pelyr": 12.559, 
+            "industry": "银行", 
+            "industryId": 3
+        }, 
+        {
+            "symbol": "SH600036", 
+            "pettm": 11.13, 
+            "current": 40.62, 
+            "pb": 1.712, 
+            "name": "招商银行", 
+            "pelyr": 11.031, 
+            "industry": "银行", 
+            "industryId": 3
+        }
+    ], 
+    "4": [
+        {
+            "symbol": "SH600705", 
+            "pettm": 12.258, 
+            "current": 4.26, 
+            "pb": 1.21, 
+            "name": "中航资本", 
+            "pelyr": 12.404, 
+            "industry": "非银金融/多元金融", 
+            "industryId": 4
+        }, 
+        {
+            "symbol": "SH600901", 
+            "pettm": 9.902, 
+            "current": 5.76, 
+            "pb": 1.426, 
+            "name": "江苏租赁", 
+            "pelyr": 10.866, 
+            "industry": "保险", 
+            "industryId": 4
+        }, 
+        {
+            "symbol": "SH601601", 
+            "pettm": 12.81, 
+            "current": 34.35, 
+            "pb": 1.672, 
+            "name": "中国太保", 
+            "pelyr": 11.912, 
+            "industry": "保险", 
+            "industryId": 4
+        }
+    ], 
+    "5": [
+        {
+            "symbol": "SH600012", 
+            "pettm": 12.98, 
+            "current": 5.16, 
+            "pb": 0.818, 
+            "name": "皖通高速", 
+            "pelyr": 7.798, 
+            "industry": "交通运输/高速公路", 
+            "industryId": 5
+        }, 
+        {
+            "symbol": "SH601000", 
+            "pettm": 8.058, 
+            "current": 2.45, 
+            "pb": 0.828, 
+            "name": "唐山港", 
+            "pelyr": 8.167, 
+            "industry": "交通运输/港口", 
+            "industryId": 5
+        }, 
+        {
+            "symbol": "SH601006", 
+            "pettm": 8.598, 
+            "current": 6.48, 
+            "pb": 0.855, 
+            "name": "大秦铁路", 
+            "pelyr": 7.048, 
+            "industry": "交通运输/铁路运输", 
+            "industryId": 5
+        }, 
+        {
+            "symbol": "SH600350", 
+            "pettm": 16.301, 
+            "current": 5.71, 
+            "pb": 1.018, 
+            "name": "山东高速", 
+            "pelyr": 9.026, 
+            "industry": "交通运输/高速公路", 
+            "industryId": 5
+        }, 
+        {
+            "symbol": "SH601598", 
+            "pettm": 12.013, 
+            "current": 4.06, 
+            "pb": 1.044, 
+            "name": "中国外运", 
+            "pelyr": 10.718, 
+            "industry": "交通运输/物流", 
+            "industryId": 5
+        }, 
+        {
+            "symbol": "SH600548", 
+            "pettm": 19.937, 
+            "current": 8.82, 
+            "pb": 1.107, 
+            "name": "深高速", 
+            "pelyr": 7.695, 
+            "industry": "交通运输/高速公路", 
+            "industryId": 5
+        }, 
+        {
+            "symbol": "SH600018", 
+            "pettm": 11.468, 
+            "current": 4.22, 
+            "pb": 1.185, 
+            "name": "上港集团", 
+            "pelyr": 10.791, 
+            "industry": "交通运输/港口", 
+            "industryId": 5
+        }, 
+        {
+            "symbol": "SH601298", 
+            "pettm": 9.767, 
+            "current": 5.71, 
+            "pb": 1.192, 
+            "name": "青岛港", 
+            "pelyr": 9.779, 
+            "industry": "交通运输/港口", 
+            "industryId": 5
+        }, 
+        {
+            "symbol": "SZ000828", 
+            "pettm": 10.643, 
+            "current": 9.27, 
+            "pb": 1.273, 
+            "name": "东莞控股", 
+            "pelyr": 8.973, 
+            "industry": "交通运输/高速公路", 
+            "industryId": 5
+        }, 
+        {
+            "symbol": "SH600093", 
+            "pettm": 17.298, 
+            "current": 9.95, 
+            "pb": 1.365, 
+            "name": "易见股份", 
+            "pelyr": 12.606, 
+            "industry": "交通运输/物流", 
+            "industryId": 5
+        }, 
+        {
+            "symbol": "SH600897", 
+            "pettm": 19.451, 
+            "current": 17.79, 
+            "pb": 1.474, 
+            "name": "厦门空港", 
+            "pelyr": 10.221, 
+            "industry": "交通运输/航空运输", 
+            "industryId": 5
+        }, 
+        {
+            "symbol": "SZ000885", 
+            "pettm": 19.132, 
+            "current": 10.87, 
+            "pb": 1.594, 
+            "name": "城发环境", 
+            "pelyr": 11.182, 
+            "industry": "交通运输/高速公路", 
+            "industryId": 5
+        }, 
+        {
+            "symbol": "SH600377", 
+            "pettm": 19.491, 
+            "current": 9.3, 
+            "pb": 1.806, 
+            "name": "宁沪高速", 
+            "pelyr": 11.156, 
+            "industry": "交通运输/高速公路", 
+            "industryId": 5
+        }
+    ], 
+    "6": [
+        {
+            "symbol": "SH601828", 
+            "pettm": 12.956, 
+            "current": 9.54, 
+            "pb": 0.803, 
+            "name": "美凯龙", 
+            "pelyr": 8.316, 
+            "industry": "一般零售", 
+            "industryId": 6
+        }, 
+        {
+            "symbol": "SH600790", 
+            "pettm": 11.804, 
+            "current": 3.25, 
+            "pb": 0.864, 
+            "name": "轻纺城", 
+            "pelyr": 14.047, 
+            "industry": "专业市场", 
+            "industryId": 6
+        }, 
+        {
+            "symbol": "SH600704", 
+            "pettm": 8.435, 
+            "current": 4.58, 
+            "pb": 0.981, 
+            "name": "物产中大", 
+            "pelyr": 8.481, 
+            "industry": "商业贸易", 
+            "industryId": 6
+        }, 
+        {
+            "symbol": "SZ002024", 
+            "pettm": 11.735, 
+            "current": 9.5, 
+            "pb": 1.011, 
+            "name": "苏宁易购", 
+            "pelyr": 8.986, 
+            "industry": "一般零售", 
+            "industryId": 6
+        }, 
+        {
+            "symbol": "SH600828", 
+            "pettm": 7.958, 
+            "current": 3.95, 
+            "pb": 1.068, 
+            "name": "茂业商业", 
+            "pelyr": 5.432, 
+            "industry": "一般零售", 
+            "industryId": 6
+        }, 
+        {
+            "symbol": "SZ002091", 
+            "pettm": 11.862, 
+            "current": 6.17, 
+            "pb": 1.11, 
+            "name": "江苏国泰", 
+            "pelyr": 10.208, 
+            "industry": "商业贸易", 
+            "industryId": 6
+        }, 
+        {
+            "symbol": "SH600655", 
+            "pettm": 10.366, 
+            "current": 8.84, 
+            "pb": 1.112, 
+            "name": "豫园股份", 
+            "pelyr": 10.701, 
+            "industry": "一般零售", 
+            "industryId": 6
+        }, 
+        {
+            "symbol": "SZ000501", 
+            "pettm": 17.986, 
+            "current": 13.63, 
+            "pb": 1.126, 
+            "name": "鄂武商A", 
+            "pelyr": 8.556, 
+            "industry": "一般零售", 
+            "industryId": 6
+        }, 
+        {
+            "symbol": "SH600250", 
+            "pettm": 15.674, 
+            "current": 5.54, 
+            "pb": 1.615, 
+            "name": "南纺股份", 
+            "pelyr": 15.844, 
+            "industry": "商业贸易", 
+            "industryId": 6
+        }, 
+        {
+            "symbol": "SH600693", 
+            "pettm": 9.767, 
+            "current": 4.83, 
+            "pb": 1.637, 
+            "name": "东百集团", 
+            "pelyr": 13.141, 
+            "industry": "一般零售", 
+            "industryId": 6
+        }, 
+        {
+            "symbol": "SZ000906", 
+            "pettm": 11.225, 
+            "current": 7.26, 
+            "pb": 1.833, 
+            "name": "浙商中拓", 
+            "pelyr": 9.13, 
+            "industry": "商业贸易", 
+            "industryId": 6
+        }, 
+        {
+            "symbol": "SZ002818", 
+            "pettm": 14.021, 
+            "current": 13.19, 
+            "pb": 1.937, 
+            "name": "富森美", 
+            "pelyr": 12.379, 
+            "industry": "一般零售", 
+            "industryId": 6
+        }
+    ], 
+    "7": [
+        {
+            "symbol": "SH600873", 
+            "pettm": 16.756, 
+            "current": 5.15, 
+            "pb": 1.782, 
+            "name": "梅花生物", 
+            "pelyr": 16.149, 
+            "industry": "农产品/氨基酸味精", 
+            "industryId": 7
+        }
+    ], 
+    "8": [
+        {
+            "symbol": "SZ002790", 
+            "pettm": 17.644, 
+            "current": 6.18, 
+            "pb": 1.581, 
+            "name": "瑞尔特", 
+            "pelyr": 14.246, 
+            "industry": "家用轻工/家具", 
+            "industryId": 8
+        }, 
+        {
+            "symbol": "SZ000910", 
+            "pettm": 12.77, 
+            "current": 15.89, 
+            "pb": 1.703, 
+            "name": "大亚圣象", 
+            "pelyr": 12.087, 
+            "industry": "家用轻工/地板", 
+            "industryId": 8
+        }, 
+        {
+            "symbol": "SZ002191", 
+            "pettm": 15.708, 
+            "current": 9.28, 
+            "pb": 1.863, 
+            "name": "劲嘉股份", 
+            "pelyr": 15.504, 
+            "industry": "家用轻工/包装印刷", 
+            "industryId": 8
+        }
+    ], 
+    "9": [
+        {
+            "symbol": "SZ002087", 
+            "pettm": 14.37, 
+            "current": 4.25, 
+            "pb": 0.824, 
+            "name": "新野纺织", 
+            "pelyr": 12.424, 
+            "industry": "纺织", 
+            "industryId": 9
+        }, 
+        {
+            "symbol": "SZ002394", 
+            "pettm": 6.901, 
+            "current": 10.5, 
+            "pb": 0.969, 
+            "name": "联发股份", 
+            "pelyr": 8.889, 
+            "industry": "纺织", 
+            "industryId": 9
+        }, 
+        {
+            "symbol": "SH600987", 
+            "pettm": 9.215, 
+            "current": 5.44, 
+            "pb": 1.18, 
+            "name": "航民股份", 
+            "pelyr": 7.978, 
+            "industry": "纺织", 
+            "industryId": 9
+        }, 
+        {
+            "symbol": "SZ002083", 
+            "pettm": 17.964, 
+            "current": 5.05, 
+            "pb": 1.2, 
+            "name": "孚日股份", 
+            "pelyr": 12.426, 
+            "industry": "纺织", 
+            "industryId": 9
+        }, 
+        {
+            "symbol": "SH600273", 
+            "pettm": 12.9, 
+            "current": 10.18, 
+            "pb": 2, 
+            "name": "嘉化能源", 
+            "pelyr": 11.887, 
+            "industry": "纺织", 
+            "industryId": 9
+        }
+    ], 
+    "10": [
+        {
+            "symbol": "SH600177", 
+            "pettm": 6.778, 
+            "current": 7.06, 
+            "pb": 1.207, 
+            "name": "雅戈尔", 
+            "pelyr": 8.227, 
+            "industry": "服装", 
+            "industryId": 10
+        }, 
+        {
+            "symbol": "SH603365", 
+            "pettm": 13.701, 
+            "current": 14.19, 
+            "pb": 1.765, 
+            "name": "水星家纺", 
+            "pelyr": 11.992, 
+            "industry": "服装", 
+            "industryId": 10
+        }, 
+        {
+            "symbol": "SZ002687", 
+            "pettm": 17.514, 
+            "current": 6.3, 
+            "pb": 1.886, 
+            "name": "乔治白", 
+            "pelyr": 15.406, 
+            "industry": "服装", 
+            "industryId": 10
+        }, 
+        {
+            "symbol": "SZ002327", 
+            "pettm": 12.775, 
+            "current": 8.12, 
+            "pb": 1.976, 
+            "name": "富安娜", 
+            "pelyr": 13.505, 
+            "industry": "服装", 
+            "industryId": 10
+        }
+    ], 
+    "11": [
+        {
+            "symbol": "SH601186", 
+            "pettm": 5.692, 
+            "current": 8.48, 
+            "pb": 0.659, 
+            "name": "中国铁建", 
+            "pelyr": 5.701, 
+            "industry": "建筑/基础建设", 
+            "industryId": 11
+        }, 
+        {
+            "symbol": "SH600820", 
+            "pettm": 9.984, 
+            "current": 5.63, 
+            "pb": 0.816, 
+            "name": "隧道股份", 
+            "pelyr": 8.284, 
+            "industry": "建筑/基础建设", 
+            "industryId": 11
+        }, 
+        {
+            "symbol": "SH601668", 
+            "pettm": 5.29, 
+            "current": 5.22, 
+            "pb": 0.818, 
+            "name": "中国建筑", 
+            "pelyr": 5.23, 
+            "industry": "建筑/基础建设", 
+            "industryId": 11
+        }, 
+        {
+            "symbol": "SH600068", 
+            "pettm": 6.264, 
+            "current": 6.09, 
+            "pb": 0.883, 
+            "name": "葛洲坝", 
+            "pelyr": 5.153, 
+            "industry": "建筑/基础建设", 
+            "industryId": 11
+        }, 
+        {
+            "symbol": "SZ002061", 
+            "pettm": 10.215, 
+            "current": 5.66, 
+            "pb": 0.995, 
+            "name": "浙江交科", 
+            "pelyr": 10.778, 
+            "industry": "建筑/基础建设（+化学 制品）", 
+            "industryId": 11
+        }, 
+        {
+            "symbol": "SZ000055", 
+            "pettm": 12.743, 
+            "current": 4.77, 
+            "pb": 0.998, 
+            "name": "方大集团", 
+            "pelyr": 14.927, 
+            "industry": "建筑/专业工程", 
+            "industryId": 11
+        }, 
+        {
+            "symbol": "SZ000498", 
+            "pettm": 8.262, 
+            "current": 5.13, 
+            "pb": 1.026, 
+            "name": "山东路桥", 
+            "pelyr": 11.18, 
+            "industry": "建筑/基础建设", 
+            "industryId": 11
+        }, 
+        {
+            "symbol": "SZ002775", 
+            "pettm": 13.327, 
+            "current": 5.35, 
+            "pb": 1.099, 
+            "name": "文科园林", 
+            "pelyr": 11.192, 
+            "industry": "建筑装饰", 
+            "industryId": 11
+        }, 
+        {
+            "symbol": "SH600491", 
+            "pettm": 12.952, 
+            "current": 8.17, 
+            "pb": 1.144, 
+            "name": "龙元建设", 
+            "pelyr": 12.244, 
+            "industry": "建筑/房屋建设", 
+            "industryId": 11
+        }, 
+        {
+            "symbol": "SZ000065", 
+            "pettm": 9.372, 
+            "current": 7.49, 
+            "pb": 1.158, 
+            "name": "北方国际", 
+            "pelyr": 8.161, 
+            "industry": "建筑/专业工程", 
+            "industryId": 11
+        }, 
+        {
+            "symbol": "SH600668", 
+            "pettm": 8.391, 
+            "current": 15.05, 
+            "pb": 1.273, 
+            "name": "尖峰集团", 
+            "pelyr": 7.146, 
+            "industry": "建筑材料/水泥", 
+            "industryId": 11
+        }, 
+        {
+            "symbol": "SH600970", 
+            "pettm": 9.403, 
+            "current": 7.54, 
+            "pb": 1.282, 
+            "name": "中材国际", 
+            "pelyr": 8.23, 
+            "industry": "建筑材料/水泥", 
+            "industryId": 11
+        }, 
+        {
+            "symbol": "SZ000546", 
+            "pettm": 12.066, 
+            "current": 8.59, 
+            "pb": 1.361, 
+            "name": "金圆股份", 
+            "pelyr": 12.198, 
+            "industry": "建筑材料/水泥", 
+            "industryId": 11
+        }, 
+        {
+            "symbol": "SH603030", 
+            "pettm": 16.15, 
+            "current": 5.61, 
+            "pb": 1.362, 
+            "name": "全筑股份", 
+            "pelyr": 14.47, 
+            "industry": "建筑装饰", 
+            "industryId": 11
+        }, 
+        {
+            "symbol": "SH603458", 
+            "pettm": 8.131, 
+            "current": 15.18, 
+            "pb": 1.384, 
+            "name": "勘设股份", 
+            "pelyr": 8.524, 
+            "industry": "建筑装饰", 
+            "industryId": 11
+        }, 
+        {
+            "symbol": "SZ002062", 
+            "pettm": 13.324, 
+            "current": 4.3, 
+            "pb": 1.429, 
+            "name": "宏润建设", 
+            "pelyr": 13.514, 
+            "industry": "建筑/基础建设", 
+            "industryId": 11
+        }, 
+        {
+            "symbol": "SH600629", 
+            "pettm": 15.429, 
+            "current": 8.46, 
+            "pb": 1.469, 
+            "name": "华建集团", 
+            "pelyr": 16.583, 
+            "industry": "建筑/专业工程", 
+            "industryId": 11
+        }, 
+        {
+            "symbol": "SH600853", 
+            "pettm": 11.892, 
+            "current": 3.14, 
+            "pb": 1.51, 
+            "name": "龙建股份", 
+            "pelyr": 11.78, 
+            "industry": "建筑/基础建设", 
+            "industryId": 11
+        }, 
+        {
+            "symbol": "SZ002392", 
+            "pettm": 13.593, 
+            "current": 5.1, 
+            "pb": 1.532, 
+            "name": "北京利尔", 
+            "pelyr": 14.598, 
+            "industry": "建筑材料", 
+            "industryId": 11
+        }, 
+        {
+            "symbol": "SZ000401", 
+            "pettm": 9.17, 
+            "current": 15.67, 
+            "pb": 1.553, 
+            "name": "冀东水泥", 
+            "pelyr": 7.819, 
+            "industry": "建筑材料/水泥", 
+            "industryId": 11
+        }, 
+        {
+            "symbol": "SZ002233", 
+            "pettm": 7.757, 
+            "current": 13.39, 
+            "pb": 1.572, 
+            "name": "塔牌集团", 
+            "pelyr": 9.21, 
+            "industry": "建筑材料/水泥", 
+            "industryId": 11
+        }, 
+        {
+            "symbol": "SH600720", 
+            "pettm": 7.724, 
+            "current": 14.57, 
+            "pb": 1.594, 
+            "name": "祁连山", 
+            "pelyr": 9.165, 
+            "industry": "建筑材料/水泥", 
+            "industryId": 11
+        }, 
+        {
+            "symbol": "SZ002081", 
+            "pettm": 11.269, 
+            "current": 9.44, 
+            "pb": 1.611, 
+            "name": "金螳螂", 
+            "pelyr": 10.782, 
+            "industry": "建筑装饰/装修", 
+            "industryId": 11
+        }, 
+        {
+            "symbol": "SZ000877", 
+            "pettm": 9.85, 
+            "current": 15.42, 
+            "pb": 1.651, 
+            "name": "天山股份", 
+            "pelyr": 9.886, 
+            "industry": "建筑材料", 
+            "industryId": 11
+        }, 
+        {
+            "symbol": "SZ002088", 
+            "pettm": 13.017, 
+            "current": 10.27, 
+            "pb": 1.667, 
+            "name": "鲁阳节能", 
+            "pelyr": 10.917, 
+            "industry": "建筑材料/其他（耐火）", 
+            "industryId": 11
+        }, 
+        {
+            "symbol": "SZ300284", 
+            "pettm": 13.264, 
+            "current": 8.39, 
+            "pb": 1.695, 
+            "name": "苏交科", 
+            "pelyr": 11.263, 
+            "industry": "建筑装饰", 
+            "industryId": 11
+        }, 
+        {
+            "symbol": "SZ300732", 
+            "pettm": 14.974, 
+            "current": 17.89, 
+            "pb": 1.818, 
+            "name": "设研院", 
+            "pelyr": 15.21, 
+            "industry": "建筑装饰", 
+            "industryId": 11
+        }, 
+        {
+            "symbol": "SH600326", 
+            "pettm": 19.338, 
+            "current": 7.62, 
+            "pb": 1.841, 
+            "name": "西藏天路", 
+            "pelyr": 16.143, 
+            "industry": "建筑材料/水泥", 
+            "industryId": 11
+        }, 
+        {
+            "symbol": "SH603357", 
+            "pettm": 15.044, 
+            "current": 10.1, 
+            "pb": 1.877, 
+            "name": "设计总院", 
+            "pelyr": 14.135, 
+            "industry": "建筑装饰", 
+            "industryId": 11
+        }, 
+        {
+            "symbol": "SH600846", 
+            "pettm": 6.904, 
+            "current": 8.94, 
+            "pb": 1.898, 
+            "name": "同济科技", 
+            "pelyr": 9.199, 
+            "industry": "建筑装饰", 
+            "industryId": 11
+        }, 
+        {
+            "symbol": "SH600585", 
+            "pettm": 8.005, 
+            "current": 51.97, 
+            "pb": 1.926, 
+            "name": "海螺水泥", 
+            "pelyr": 8.198, 
+            "industry": "建筑材料/水泥", 
+            "industryId": 11
+        }
+    ], 
+    "12": [ ], 
+    "13": [
+        {
+            "symbol": "SH601801", 
+            "pettm": 18.141, 
+            "current": 5.37, 
+            "pb": 1.017, 
+            "name": "皖新传媒", 
+            "pelyr": 19.177, 
+            "industry": "传媒", 
+            "industryId": 13
+        }, 
+        {
+            "symbol": "SH600373", 
+            "pettm": 9.402, 
+            "current": 11.72, 
+            "pb": 1.117, 
+            "name": "中文传媒", 
+            "pelyr": 9.204, 
+            "industry": "传媒", 
+            "industryId": 13
+        }, 
+        {
+            "symbol": "SH601019", 
+            "pettm": 10.434, 
+            "current": 6.17, 
+            "pb": 1.224, 
+            "name": "山东出版", 
+            "pelyr": 8.339, 
+            "industry": "传媒", 
+            "industryId": 13
+        }, 
+        {
+            "symbol": "SH601928", 
+            "pettm": 14.288, 
+            "current": 7.25, 
+            "pb": 1.248, 
+            "name": "凤凰传媒", 
+            "pelyr": 13.732, 
+            "industry": "传媒", 
+            "industryId": 13
+        }, 
+        {
+            "symbol": "SH601900", 
+            "pettm": 14.365, 
+            "current": 8.66, 
+            "pb": 1.289, 
+            "name": "南方传媒", 
+            "pelyr": 10.583, 
+            "industry": "传媒", 
+            "industryId": 13
+        }, 
+        {
+            "symbol": "SH601811", 
+            "pettm": 11.561, 
+            "current": 10.68, 
+            "pb": 1.411, 
+            "name": "新华文轩", 
+            "pelyr": 11.569, 
+            "industry": "传媒", 
+            "industryId": 13
+        }, 
+        {
+            "symbol": "SH601949", 
+            "pettm": 13.745, 
+            "current": 5.18, 
+            "pb": 1.419, 
+            "name": "中国出版", 
+            "pelyr": 13.433, 
+            "industry": "传媒", 
+            "industryId": 13
+        }, 
+        {
+            "symbol": "SH600229", 
+            "pettm": 13.972, 
+            "current": 7.06, 
+            "pb": 1.661, 
+            "name": "城市传媒", 
+            "pelyr": 13.234, 
+            "industry": "传媒", 
+            "industryId": 13
+        }
+    ], 
+    "14": [
+        {
+            "symbol": "SZ000825", 
+            "pettm": 13.324, 
+            "current": 3.61, 
+            "pb": 0.643, 
+            "name": "太钢不锈", 
+            "pelyr": 9.705, 
+            "industry": "钢铁", 
+            "industryId": 14
+        }, 
+        {
+            "symbol": "SZ000778", 
+            "pettm": 9.561, 
+            "current": 3.71, 
+            "pb": 0.675, 
+            "name": "新兴铸管", 
+            "pelyr": 9.89, 
+            "industry": "钢铁", 
+            "industryId": 14
+        }, 
+        {
+            "symbol": "SH600019", 
+            "pettm": 11.813, 
+            "current": 5.35, 
+            "pb": 0.676, 
+            "name": "宝钢股份", 
+            "pelyr": 9.591, 
+            "industry": "钢铁", 
+            "industryId": 14
+        }, 
+        {
+            "symbol": "SZ002110", 
+            "pettm": 7.016, 
+            "current": 6.61, 
+            "pb": 0.817, 
+            "name": "三钢闽光", 
+            "pelyr": 4.412, 
+            "industry": "钢铁", 
+            "industryId": 14
+        }, 
+        {
+            "symbol": "SH600282", 
+            "pettm": 9.867, 
+            "current": 3.02, 
+            "pb": 0.875, 
+            "name": "南钢股份", 
+            "pelyr": 7.121, 
+            "industry": "钢铁", 
+            "industryId": 14
+        }, 
+        {
+            "symbol": "SZ000932", 
+            "pettm": 6.247, 
+            "current": 5.06, 
+            "pb": 1.043, 
+            "name": "华菱钢铁", 
+            "pelyr": 7.062, 
+            "industry": "钢铁", 
+            "industryId": 14
+        }, 
+        {
+            "symbol": "SZ002478", 
+            "pettm": 9.961, 
+            "current": 5.1, 
+            "pb": 1.052, 
+            "name": "常宝股份", 
+            "pelyr": 8.144, 
+            "industry": "钢铁", 
+            "industryId": 14
+        }, 
+        {
+            "symbol": "SH601003", 
+            "pettm": 6.399, 
+            "current": 4.63, 
+            "pb": 1.082, 
+            "name": "柳钢股份", 
+            "pelyr": 5.056, 
+            "industry": "钢铁", 
+            "industryId": 14
+        }, 
+        {
+            "symbol": "SZ000717", 
+            "pettm": 6.257, 
+            "current": 4.24, 
+            "pb": 1.211, 
+            "name": "韶钢松山", 
+            "pelyr": 5.626, 
+            "industry": "钢铁", 
+            "industryId": 14
+        }, 
+        {
+            "symbol": "SH600507", 
+            "pettm": 8.027, 
+            "current": 5.5, 
+            "pb": 1.528, 
+            "name": "方大特钢", 
+            "pelyr": 6.93, 
+            "industry": "钢铁", 
+            "industryId": 14
+        }
+    ], 
+    "16": [
+        {
+            "symbol": "SH600348", 
+            "pettm": 8.674, 
+            "current": 4.9, 
+            "pb": 0.699, 
+            "name": "阳泉煤业", 
+            "pelyr": 6.929, 
+            "industry": "煤炭", 
+            "industryId": 16
+        }, 
+        {
+            "symbol": "SH601699", 
+            "pettm": 9.517, 
+            "current": 6.24, 
+            "pb": 0.713, 
+            "name": "潞安环能", 
+            "pelyr": 7.847, 
+            "industry": "煤炭", 
+            "industryId": 16
+        }, 
+        {
+            "symbol": "SH600971", 
+            "pettm": 6.2, 
+            "current": 5.29, 
+            "pb": 0.719, 
+            "name": "恒源煤电", 
+            "pelyr": 5.627, 
+            "industry": "煤炭", 
+            "industryId": 16
+        }, 
+        {
+            "symbol": "SH600188", 
+            "pettm": 6.247, 
+            "current": 9.48, 
+            "pb": 0.819, 
+            "name": "兖州煤业", 
+            "pelyr": 5.315, 
+            "industry": "煤炭", 
+            "industryId": 16
+        }, 
+        {
+            "symbol": "SH600408", 
+            "pettm": 4.518, 
+            "current": 1.77, 
+            "pb": 0.912, 
+            "name": "ST安泰", 
+            "pelyr": 3.901, 
+            "industry": "煤炭", 
+            "industryId": 16
+        }, 
+        {
+            "symbol": "SH601088", 
+            "pettm": 8.312, 
+            "current": 16.6, 
+            "pb": 0.922, 
+            "name": "中国神华", 
+            "pelyr": 7.634, 
+            "industry": "煤炭", 
+            "industryId": 16
+        }, 
+        {
+            "symbol": "SH600985", 
+            "pettm": 6.372, 
+            "current": 10.32, 
+            "pb": 1.085, 
+            "name": "淮北矿业", 
+            "pelyr": 6.179, 
+            "industry": "煤炭", 
+            "industryId": 16
+        }, 
+        {
+            "symbol": "SZ002128", 
+            "pettm": 7.673, 
+            "current": 10, 
+            "pb": 1.133, 
+            "name": "露天煤业", 
+            "pelyr": 7.791, 
+            "industry": "煤炭", 
+            "industryId": 16
+        }, 
+        {
+            "symbol": "SH601001", 
+            "pettm": 9.157, 
+            "current": 4.83, 
+            "pb": 1.153, 
+            "name": "大同煤业", 
+            "pelyr": 9.008, 
+            "industry": "煤炭", 
+            "industryId": 16
+        }, 
+        {
+            "symbol": "SH603113", 
+            "pettm": 10.238, 
+            "current": 12.1, 
+            "pb": 1.386, 
+            "name": "金能科技", 
+            "pelyr": 10.729, 
+            "industry": "煤炭", 
+            "industryId": 16
+        }, 
+        {
+            "symbol": "SH600395", 
+            "pettm": 12.209, 
+            "current": 6, 
+            "pb": 1.402, 
+            "name": "盘江股份", 
+            "pelyr": 9.102, 
+            "industry": "煤炭", 
+            "industryId": 16
+        }, 
+        {
+            "symbol": "SH601225", 
+            "pettm": 8.282, 
+            "current": 8.91, 
+            "pb": 1.475, 
+            "name": "陕西煤业", 
+            "pelyr": 7.652, 
+            "industry": "煤炭", 
+            "industryId": 16
+        }
+    ], 
+    "17": [
+        {
+            "symbol": "SZ002391", 
+            "pettm": 16.492, 
+            "current": 7.5, 
+            "pb": 1.135, 
+            "name": "长青股份", 
+            "pelyr": 13.355, 
+            "industry": "化工/化学制品", 
+            "industryId": 17
+        }, 
+        {
+            "symbol": "SZ002440", 
+            "pettm": 11.782, 
+            "current": 9.4, 
+            "pb": 1.235, 
+            "name": "闰土股份", 
+            "pelyr": 7.894, 
+            "industry": "化工/化学制品/纺织化学用品（浙江的）", 
+            "industryId": 17
+        }, 
+        {
+            "symbol": "SH603225", 
+            "pettm": 15.31, 
+            "current": 10.62, 
+            "pb": 1.319, 
+            "name": "新凤鸣", 
+            "pelyr": 10.945, 
+            "industry": "化工合成材料", 
+            "industryId": 17
+        }, 
+        {
+            "symbol": "SH600256", 
+            "pettm": 14.753, 
+            "current": 3.17, 
+            "pb": 1.321, 
+            "name": "广汇能源", 
+            "pelyr": 13.486, 
+            "industry": "基础化学", 
+            "industryId": 17
+        }, 
+        {
+            "symbol": "SZ000830", 
+            "pettm": 12.424, 
+            "current": 9.76, 
+            "pb": 1.337, 
+            "name": "鲁西化工", 
+            "pelyr": 8.452, 
+            "industry": "化工/化学制品/氮肥", 
+            "industryId": 17
+        }, 
+        {
+            "symbol": "SH601233", 
+            "pettm": 11.888, 
+            "current": 16.1, 
+            "pb": 1.539, 
+            "name": "桐昆股份", 
+            "pelyr": 10.328, 
+            "industry": "石油化工/化学纤维/涤纶", 
+            "industryId": 17
+        }, 
+        {
+            "symbol": "SZ002221", 
+            "pettm": 13.345, 
+            "current": 9.4, 
+            "pb": 1.544, 
+            "name": "东华能源", 
+            "pelyr": 14.041, 
+            "industry": "石油化工", 
+            "industryId": 17
+        }, 
+        {
+            "symbol": "SH603585", 
+            "pettm": 14.291, 
+            "current": 17.33, 
+            "pb": 1.606, 
+            "name": "苏利股份", 
+            "pelyr": 10.289, 
+            "industry": "化工/化学制品", 
+            "industryId": 17
+        }, 
+        {
+            "symbol": "SH601058", 
+            "pettm": 9.216, 
+            "current": 4.84, 
+            "pb": 1.619, 
+            "name": "赛轮轮胎", 
+            "pelyr": 10.932, 
+            "industry": "橡胶", 
+            "industryId": 17
+        }, 
+        {
+            "symbol": "SZ002206", 
+            "pettm": 17.519, 
+            "current": 3.84, 
+            "pb": 1.684, 
+            "name": "海利得", 
+            "pelyr": 14.358, 
+            "industry": "石油化工/化学纤维", 
+            "industryId": 17
+        }, 
+        {
+            "symbol": "SH603599", 
+            "pettm": 17.371, 
+            "current": 19.89, 
+            "pb": 1.73, 
+            "name": "广信股份", 
+            "pelyr": 18.278, 
+            "industry": "化工/化学制品", 
+            "industryId": 17
+        }, 
+        {
+            "symbol": "SH600352", 
+            "pettm": 9.902, 
+            "current": 14.49, 
+            "pb": 1.774, 
+            "name": "浙江龙盛", 
+            "pelyr": 9.385, 
+            "industry": "化工/化学制品", 
+            "industryId": 17
+        }, 
+        {
+            "symbol": "SH600618", 
+            "pettm": 16.784, 
+            "current": 7.24, 
+            "pb": 1.788, 
+            "name": "氯碱化工", 
+            "pelyr": 10.324, 
+            "industry": "基础化学", 
+            "industryId": 17
+        }, 
+        {
+            "symbol": "SH603928", 
+            "pettm": 18.249, 
+            "current": 12.16, 
+            "pb": 1.812, 
+            "name": "兴业股份", 
+            "pelyr": 18.486, 
+            "industry": "基础化学", 
+            "industryId": 17
+        }
+    ], 
+    "18": [
+        {
+            "symbol": "SH601985", 
+            "pettm": 13.915, 
+            "current": 4.46, 
+            "pb": 1.385, 
+            "name": "中国核电", 
+            "pelyr": 15.051, 
+            "industry": "电力", 
+            "industryId": 18
+        }, 
+        {
+            "symbol": "SH600674", 
+            "pettm": 14.187, 
+            "current": 9.75, 
+            "pb": 1.55, 
+            "name": "川投能源", 
+            "pelyr": 14.564, 
+            "industry": "电力", 
+            "industryId": 18
+        }, 
+        {
+            "symbol": "SZ003816", 
+            "pettm": 14.864, 
+            "current": 2.84, 
+            "pb": 1.569, 
+            "name": "中国广核", 
+            "pelyr": 15.151, 
+            "industry": "电力", 
+            "industryId": 18
+        }, 
+        {
+            "symbol": "SH600886", 
+            "pettm": 11.134, 
+            "current": 8.9, 
+            "pb": 1.604, 
+            "name": "国投电力", 
+            "pelyr": 13.006, 
+            "industry": "电力", 
+            "industryId": 18
+        }, 
+        {
+            "symbol": "SH600995", 
+            "pettm": 16.837, 
+            "current": 7.94, 
+            "pb": 1.668, 
+            "name": "文山电力", 
+            "pelyr": 11.44, 
+            "industry": "电力", 
+            "industryId": 18
+        }, 
+        {
+            "symbol": "SZ002039", 
+            "pettm": 13.821, 
+            "current": 16.13, 
+            "pb": 1.703, 
+            "name": "黔源电力", 
+            "pelyr": 16.974, 
+            "industry": "电力", 
+            "industryId": 18
+        }
+    ], 
+    "19": [
+        {
+            "symbol": "SH603359", 
+            "pettm": 13.74, 
+            "current": 19.96, 
+            "pb": 2, 
+            "name": "东珠生态", 
+            "pelyr": 17.593, 
+            "industry": "公共事业/环保", 
+            "industryId": 19
+        }
+    ], 
+    "20": [ ], 
+    "21": [
+        {
+            "symbol": "SZ000921", 
+            "pettm": 12.178, 
+            "current": 11.95, 
+            "pb": 1.876, 
+            "name": "海信家电", 
+            "pelyr": 9.079, 
+            "industry": "家电", 
+            "industryId": 21
+        }
+    ], 
+    "22": [
+        {
+            "symbol": "SH600710", 
+            "pettm": 12.887, 
+            "current": 5.22, 
+            "pb": 1.308, 
+            "name": "苏美达", 
+            "pelyr": 15.473, 
+            "industry": "专用设备", 
+            "industryId": 22
+        }, 
+        {
+            "symbol": "SH600522", 
+            "pettm": 17.348, 
+            "current": 11.11, 
+            "pb": 1.592, 
+            "name": "中天科技", 
+            "pelyr": 17.298, 
+            "industry": "通信设备", 
+            "industryId": 22
+        }, 
+        {
+            "symbol": "SH600835", 
+            "pettm": 17.833, 
+            "current": 19.06, 
+            "pb": 1.655, 
+            "name": "上海机电", 
+            "pelyr": 18.057, 
+            "industry": "专用设备", 
+            "industryId": 22
+        }, 
+        {
+            "symbol": "SZ002150", 
+            "pettm": 16.044, 
+            "current": 6.53, 
+            "pb": 1.709, 
+            "name": "通润装备", 
+            "pelyr": 15.245, 
+            "industry": "通用设备", 
+            "industryId": 22
+        }, 
+        {
+            "symbol": "SH600577", 
+            "pettm": 15.098, 
+            "current": 3.31, 
+            "pb": 1.809, 
+            "name": "精达股份", 
+            "pelyr": 14.531, 
+            "industry": "机械设备/金属制品", 
+            "industryId": 22
+        }, 
+        {
+            "symbol": "SH600388", 
+            "pettm": 12.989, 
+            "current": 9.44, 
+            "pb": 1.869, 
+            "name": "龙净环保", 
+            "pelyr": 11.858, 
+            "industry": "专用设备", 
+            "industryId": 22
+        }
+    ], 
+    "23": [ ], 
+    "24": [ ], 
+    "25": [
+        {
+            "symbol": "SZ002462", 
+            "pettm": 13.802, 
+            "current": 15.39, 
+            "pb": 1.263, 
+            "name": "嘉事堂", 
+            "pelyr": 11.941, 
+            "industry": "医药", 
+            "industryId": 25
+        }, 
+        {
+            "symbol": "SH601607", 
+            "pettm": 13.448, 
+            "current": 20.05, 
+            "pb": 1.328, 
+            "name": "上海医药", 
+            "pelyr": 13.963, 
+            "industry": "医药", 
+            "industryId": 25
+        }, 
+        {
+            "symbol": "SH600420", 
+            "pettm": 16.448, 
+            "current": 9.78, 
+            "pb": 1.331, 
+            "name": "现代制药", 
+            "pelyr": 15.302, 
+            "industry": "医药", 
+            "industryId": 25
+        }, 
+        {
+            "symbol": "SH603367", 
+            "pettm": 15.316, 
+            "current": 14.91, 
+            "pb": 1.448, 
+            "name": "辰欣药业", 
+            "pelyr": 13.136, 
+            "industry": "医疗设备", 
+            "industryId": 25
+        }, 
+        {
+            "symbol": "SH600062", 
+            "pettm": 13.56, 
+            "current": 12.62, 
+            "pb": 1.49, 
+            "name": "华润双鹤", 
+            "pelyr": 12.478, 
+            "industry": "医药", 
+            "industryId": 25
+        }, 
+        {
+            "symbol": "SZ000028", 
+            "pettm": 15.89, 
+            "current": 48.6, 
+            "pb": 1.535, 
+            "name": "国药一致", 
+            "pelyr": 16.367, 
+            "industry": "医药/医药商业", 
+            "industryId": 25
+        }, 
+        {
+            "symbol": "SH600056", 
+            "pettm": 14.715, 
+            "current": 14.74, 
+            "pb": 1.662, 
+            "name": "中国医药", 
+            "pelyr": 16.049, 
+            "industry": "医药", 
+            "industryId": 25
+        }, 
+        {
+            "symbol": "SH603368", 
+            "pettm": 11.118, 
+            "current": 22.2, 
+            "pb": 1.754, 
+            "name": "柳药股份", 
+            "pelyr": 11.746, 
+            "industry": "医药/医药商业", 
+            "industryId": 25
+        }, 
+        {
+            "symbol": "SH600252", 
+            "pettm": 16.334, 
+            "current": 3.29, 
+            "pb": 1.778, 
+            "name": "中恒集团", 
+            "pelyr": 15.347, 
+            "industry": "医药", 
+            "industryId": 25
+        }, 
+        {
+            "symbol": "SZ002788", 
+            "pettm": 12.714, 
+            "current": 8.66, 
+            "pb": 1.797, 
+            "name": "鹭燕医药", 
+            "pelyr": 13.148, 
+            "industry": "医药", 
+            "industryId": 25
+        }, 
+        {
+            "symbol": "SH600479", 
+            "pettm": 12.806, 
+            "current": 8.88, 
+            "pb": 1.812, 
+            "name": "千金药业", 
+            "pelyr": 12.627, 
+            "industry": "医药", 
+            "industryId": 25
+        }, 
+        {
+            "symbol": "SH600557", 
+            "pettm": 18.56, 
+            "current": 12.8, 
+            "pb": 1.882, 
+            "name": "康缘药业", 
+            "pelyr": 14.968, 
+            "industry": "医药", 
+            "industryId": 25
+        }
+    ], 
+    "27": [
+        {
+            "symbol": "SH601512", 
+            "pettm": 18.003, 
+            "current": 10.9, 
+            "pb": 1.546, 
+            "name": "中新集团", 
+            "pelyr": 15.079, 
+            "industry": "综合", 
+            "industryId": 27
+        }
+    ], 
+    "999": [
+        {
+            "symbol": "SH600675", 
+            "pettm": 19.065, 
+            "current": 3.95, 
+            "pb": 1.612, 
+            "name": "中华企业", 
+            "pelyr": 10.29, 
+            "industry": "未分类", 
+            "industryId": 999
+        }, 
+        {
+            "symbol": "SH603086", 
+            "pettm": 15.393, 
+            "current": 17.14, 
+            "pb": 1.645, 
+            "name": "先达股份", 
+            "pelyr": 13.276, 
+            "industry": "未分类", 
+            "industryId": 999
+        }, 
+        {
+            "symbol": "SZ002234", 
+            "pettm": 11.158, 
+            "current": 16.12, 
+            "pb": 1.849, 
+            "name": "民和股份", 
+            "pelyr": 3.024, 
+            "industry": "未分类", 
+            "industryId": 999
+        }, 
+        {
+            "symbol": "SZ000999", 
+            "pettm": 17.5, 
+            "current": 25.94, 
+            "pb": 1.923, 
+            "name": "华润三九", 
+            "pelyr": 12.02, 
+            "industry": "未分类", 
+            "industryId": 999
+        }, 
+        {
+            "symbol": "SH603609", 
+            "pettm": 8.434, 
+            "current": 13.23, 
+            "pb": 1.989, 
+            "name": "禾丰牧业", 
+            "pelyr": 10.171, 
+            "industry": "未分类", 
+            "industryId": 999
+        }, 
+        {
+            "symbol": "SZ000779", 
+            "pettm": 16.088, 
+            "current": 10.19, 
+            "pb": 1.994, 
+            "name": "甘咨询", 
+            "pelyr": 12.89, 
+            "industry": "未分类", 
+            "industryId": 999
+        }
+    ]
+}

@@ -60,6 +60,16 @@ pipenv 似乎有点问题
 直接 pip install requests 了（无vpn下，5分钟左右，之前报错，还pip install --upgrade pip了）
 
 
+# 20210105 因为换回旧的本地固态硬盘，重新搞了这套，主要问题在于：
+## pyenv install 3.7.2的时候报错，解决办法：
+$ brew install zlib
+$ export LDFLAGS="-L/usr/local/opt/zlib/lib"
+$ export CPPFLAGS="-I/usr/local/opt/zlib/include"
+重新安装 pyenv install 3.7.2，就可以了
+## 安装依赖
+$ pip install requests
+
+
 
 
 
